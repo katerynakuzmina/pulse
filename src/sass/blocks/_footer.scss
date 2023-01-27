@@ -41,5 +41,9 @@
         height: 52px;
         margin-right: 13px;
         margin-left: 13px;
+        &:hover {
+            margin-bottom: 10px;
+            transition: 0.5s all;
+        }
     }
 }
